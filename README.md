@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehedi1256" alt="mehedi1256" /></a> </p>
 
-- 🔭 I’m currently working on **node.js, wordpress, laravel**
-
-- 🌱 I’m currently learning **Angular.js, React.js, Express.js, Nest.js**
+- 🔭 I’m currently working on **node.js, wordpress, laravel Angular.js, React.js, Express.js, Nest.js**
 
 - 👯 I’m looking to collaborate on **php and js technology**
 
